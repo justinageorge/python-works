@@ -1,0 +1,6 @@
+print()
+display message in console
+input()read value from console
+return datatype of object-type
+
+range(start end step=1)
